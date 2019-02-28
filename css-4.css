@@ -1,0 +1,18 @@
+﻿@font-face {
+  font-family: 'PT Sans Narrow';
+  font-style: normal;
+  font-weight: 400;
+  src: local('PT Sans Narrow'), local('PTSans-Narrow'), url(s/ptsansnarrow/v9/BngRUXNadjH0qYEzV7ab-oWlsbCGwRg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Volkhov';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Volkhov Italic'), local('Volkhov-Italic'), url(s/volkhov/v10/SlGSmQieoJcKemNecTA0h1Ry.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Volkhov';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Volkhov Bold'), local('Volkhov-Bold'), url(s/volkhov/v10/SlGVmQieoJcKemNeeY4hkHNSaA.ttf) format('truetype');
+}
